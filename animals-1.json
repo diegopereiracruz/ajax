@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Furioso",
+        "especie": "gato",
+        "comida": "ração"
+    },
+    {
+        "nome": "Yang",
+        "especie": "cachorro",
+        "comida": "osso"
+    },
+    {
+        "nome": "Jake",
+        "especie": "cachorro",
+        "comida": "bolo"
+    }
+]
